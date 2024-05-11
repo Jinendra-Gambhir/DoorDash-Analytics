@@ -37,7 +37,7 @@ This project uses Python, PySpark, and data visualization libraries to analyze D
 
 
 # Usage
-## Exploding Cuisines and Counting by City
+## Exploring Cuisines and Counting by City
 - This snippet explodes the 'cuisines' column to count the occurrences of each cuisine type in different cities, helping to identify popular tastes in each area.
 
 ```PySpark
