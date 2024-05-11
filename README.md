@@ -22,6 +22,29 @@ This project uses Python, PySpark, and data visualization libraries to analyze D
 * **Seaborn and Matplotlib:** Used for additional statistical visualizations, primarily within exploratory data analysis.
 * **Scikit-learn:** Provides tools for data preprocessing (like StandardScaler) and machine learning (like KMeans for clustering).
 * **Google Colab:** Platforms for writing and executing Python code in an interactive environment, used for script development and testing.
+
+## Data Columns
+1. searched_zipcode: ZIP codes for restaurant locations.
+2. searched_lat: Latitude coordinates for search queries.
+3. searched_lng: Longitude coordinates for search queries.
+4. searched_address: Full addresses where searches occurred.
+5. searched_state: State names from search data.
+6. searched_city: City names from search data.
+7. searched_metro: Metro areas from searches.
+8. latitude: Restaurant latitude coordinates.
+9. longitude: Restaurant longitude coordinates.
+10. distance: Distance to restaurant in kilometers.
+11. loc_name: Names of the restaurants.
+12. loc_number: Numerical identifiers for restaurants.
+13. address: Physical addresses of restaurants.
+14. cuisines: Types of cuisines offered.
+15. delivery_time: Time taken for delivery in minutes.
+16. review_count: Number of reviews for each restaurant.
+17. review_rating: Average rating out of 5.
+18. Specialty Items: Specific dishes offered.
+19. Meal Types: Categories like breakfast, lunch.
+20. Dietary Preferences: Diet-specific options available.
+  
 ## Features
 
 * **Cuisine Popularity Analysis:** Identifies the most popular cuisines in various cities and states using PySpark to process large datasets efficiently.
