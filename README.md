@@ -33,7 +33,7 @@ This project uses Python, PySpark, and data visualization libraries to analyze D
 * **Cuisine Recommendation System:** Implements an ALS-based recommendation system to suggest cuisines and specialty items to users based on their location and past preferences, personalized to enhance user experience.
 * **Trend Analysis:** Examines time-related data to understand peak periods and potential seasonal variations in delivery and order patterns.
 * **Customer Satisfaction Metrics:** Explores additional metrics like sentiment analysis from customer feedback, providing a deeper understanding of the overall service impact on customers.
-* **nteractive Visualizations:** Utilizes libraries like Matplotlib, Seaborn, and Plotly for dynamic and interactive data visualizations, making the analytics accessible and understandable for strategic decision-making.
+* **Interactive Visualizations:** Utilizes libraries like Matplotlib, Seaborn, and Plotly for dynamic and interactive data visualizations, making the analytics accessible and understandable for strategic decision-making.
 
 
 # Usage
