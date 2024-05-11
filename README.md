@@ -60,7 +60,15 @@ This project uses Python, PySpark, and data visualization libraries to analyze D
 
 
 # Usage
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  !pip install pyspark py4j
 ## Exploring Cuisines and Counting by City
+
 - This snippet explodes the 'cuisines' column to count the occurrences of each cuisine type in different cities, helping to identify popular tastes in each area.
 
 ```PySpark
