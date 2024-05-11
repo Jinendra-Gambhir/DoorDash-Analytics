@@ -31,7 +31,8 @@ This project uses Python, PySpark, and data visualization libraries to analyze D
 ## Screenshots
 
 ![App Screenshot](https://github.com/Jinendra-Gambhir/DoorDash-Analytics/blob/main/Tableau/Average%20Delivery%20Time%20by%20City.png)
-
+![App Screenshot](https://github.com/Jinendra-Gambhir/DoorDash-Analytics/blob/main/Tableau/City%20Comparison.png)
+![App Screenshot](https://github.com/Jinendra-Gambhir/DoorDash-Analytics/blob/main/Tableau/Popular%20cuisines%20by%20city.png)
 
 ## Tech Stack
 
