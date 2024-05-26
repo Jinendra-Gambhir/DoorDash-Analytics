@@ -110,6 +110,8 @@ data['cluster'] = kmeans.labels_
 - [Jinendra Gambhir](https://www.github.com/Jinendra-Gambhir)
 
 - [Jayraj Arora](https://github.com/JAYRAJARORA)
+  
+- [Shrinivas Patil](https://github.com/Shridat)
 
 
 ## Feedback
